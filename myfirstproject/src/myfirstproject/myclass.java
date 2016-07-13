@@ -11,7 +11,7 @@ public class myclass {
 		a = in.nextInt();
 		b = in.nextInt();
 		c = a+b;
-		System.out.println("sum =" +c);
+		System.out.println("sum of numbers =" +c);
 		
 		
 		
