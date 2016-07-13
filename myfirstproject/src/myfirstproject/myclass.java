@@ -13,6 +13,8 @@ public class myclass {
 		c = a+b;
 		System.out.println("sum =" +c);
 		System.out.println("Numbers are added");
+		System.out.println("sum of numbers =" +c);
+		
 		
 		
 	}
